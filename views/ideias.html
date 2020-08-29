@@ -1,0 +1,29 @@
+{% extends "layout.html" %}
+
+{% set bodyId = "page-ideas" %}
+
+
+{% block title %}
+    <title>Ideas - Casa Criativa</title>
+{% endblock title %}
+
+{% block content %}
+<header>
+    <a href="/">
+        <img src="/logo.png" alt="Logo Image">
+    </a>
+    <nav>
+        <li><a href="/">Inicio</a></li>
+        <li><a class="button" href="#" onclick="onOff()">Nova Ideia</a></li>
+    </nav>
+</header>
+<section id="title">
+    <p>em exibição</p>
+    <h1>ideias</h1>
+</section>
+<main>  
+    <section id="ideas">
+        {% include "all_ideas.html" %}
+    </section>
+</main>
+{% endblock %}
