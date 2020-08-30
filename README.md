@@ -21,6 +21,7 @@
 
 - [x] Register new ideas
 - [x] See all the ideas already registered
+- [x] Validation of registration fields so that an empty registration does not occur
 
 <h2>🖥 The Application<a name="application"></a></h2>
 <img src="https://github.com/vsilvadev/CreativeHouse/blob/master/github_images/CreativeHouse.gif" alt="Running Application">
