@@ -1,6 +1,3 @@
-<div align="center">
-  <img align="center" src="https://github.com/vsilvadev/CreativeHouse/blob/master/github_images/logo.png" alt="Proffy Logo">
-</div>
 <h1 align="center">Casa Criativa<a name="title"></a></h1>
 <p align="center">An app to encourage and help people to have things to do in this pandemic world</p>
 
@@ -68,7 +65,7 @@ The following tools were used in the construction of the project: <br><br>
 
 <h3>Vitor Silva</h3> 
 <img src="https://avatars3.githubusercontent.com/u/60434378?s=400&u=f3497d52861de514e8a1973fd3dce8132ed7aa8d&v=4" alt="Author" width="100" height="100">
-Done by Vitor Silva 👋🏽 Get in touch: <br>
+Done by Vitor Silva 👋🏽 <br>Get in touch: <br>
 💼 <a href="https://www.linkedin.com/in/vitor-andre-batista-silva/">LinkedIn</a><br>
 📧 <a href="mailto:vitorabsilva10@gmail.com">Email</a><br>
 🚀 <a href="https://app.rocketseat.com.br/me/function">Rocketseat</a>
