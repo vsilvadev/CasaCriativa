@@ -1,4 +1,4 @@
-<h1 align="center">Creative House<a name="title"></a></h1>
+<h1 align="center">Casa Criativa<a name="title"></a></h1>
 <p align="center">An app to encourage and help people to have things to do in this pandemic world</p>
 
 <h2>📋 Summary</h2>
