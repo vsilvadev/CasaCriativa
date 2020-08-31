@@ -39,7 +39,7 @@ Before starting, you will need to have the following tools installed on your mac
 $ git clone https://github.com/vsilvadev/CreativeHouse.git
 
 <h4>Access the project folder in the terminal/cmd</h4>
-$ cd CreativeHouse
+$ cd CasaCriativa
 
 <h4>Install the dependencies</h4>
 $ npm install
